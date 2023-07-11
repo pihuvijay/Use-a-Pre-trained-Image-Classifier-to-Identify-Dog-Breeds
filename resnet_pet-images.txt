@@ -1,0 +1,12 @@
+
+Prints 10 filenames from folder pet_images/
+ 1 file:  Great_pyrenees_05435.jpg
+ 2 file:             skunk_029.jpg
+ 3 file:       Dalmatian_04068.jpg
+ 4 file:   Saint_bernard_08010.jpg
+ 5 file: Golden_retriever_05182.jpg
+ 6 file: Miniature_schnauzer_06884.jpg
+ 7 file:           Boxer_02426.jpg
+ 8 file:              gecko_80.jpg
+ 9 file:         Basenji_00963.jpg
+10 file: German_shepherd_dog_04931.jpg
